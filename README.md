@@ -1,4 +1,4 @@
-# CRUD-Sytem
+# CRUD-System
 
 
 - This is a CRUD system app built using JavaScript and Bootstrap.
